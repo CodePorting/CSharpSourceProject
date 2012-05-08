@@ -2,6 +2,9 @@ package Emgu.CV;
 
 // ********* THIS FILE IS AUTO PORTED FORM C# USING CODEPORTING.COM *********
 
+// ********* THIS FILE IS AUTO PORTED FORM C# USING CODEPORTING.COM *********
+
+// ********* THIS FILE IS AUTO PORTED FORM C# USING CODEPORTING.COM *********
 
 ///////////////////////////////////////////////////////////////////////
 // Change for test commit.
