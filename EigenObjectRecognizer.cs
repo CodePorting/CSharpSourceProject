@@ -22,6 +22,7 @@ namespace Emgu.CV
    [Serializable]
    public class EigenObjectRecognizer
    {
+	  private string cNewLabel;
       private Image<Gray, Single>[] _eigenImages;
       private Image<Gray, Single> _avgImage;
       private Matrix<float>[] _eigenValues;
