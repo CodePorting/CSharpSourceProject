@@ -1,11 +1,3 @@
 This is the test repository for testing the working of CodePortingC#2Java github service hook.
 We will use it to place and commit C# code. 
 Once the C# code is committed, our service hook will fetch this repository and compress it into a zip, then will send it to CodePorting Web API for porting it to java.
-
-(https://github.com/CodePorting/Test/zipball/master)
-(https://github.com/CodePorting/Test/zipball/master)
-(https://github.com/CodePorting/Test/zipball/master)
-(https://github.com/CodePorting/Test/zipball/master)
-(https://github.com/CodePorting/Test/zipball/master)
-123456
-654321
