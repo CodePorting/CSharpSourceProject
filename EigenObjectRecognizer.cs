@@ -2,6 +2,8 @@ using System;
 using System.Diagnostics;
 using Emgu.CV.Structure;
 
+// UPDATE COMMENT
+
 namespace Emgu.CV
 {
    /// <summary>
@@ -10,6 +12,7 @@ namespace Emgu.CV
    [Serializable]
    public class EigenObjectRecognizer
    {
+	  private string cUpdateLabel;
 	  private string cNewLabel;
       private Image<Gray, Single>[] _eigenImages;
       private Image<Gray, Single> _avgImage;

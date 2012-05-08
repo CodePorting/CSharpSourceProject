@@ -2,14 +2,11 @@ using System;
 using System.Text;
 using System.Runtime.InteropServices;
 
-///////////////////////////////////////////////////////////////////////
-// Change for test commit.
-///////////////////////////////////////////////////////////////////////
-
 namespace DvdCopyWord.WindowsAPI
 {
     class ShellAPI
     {
+		public string csPath;
         #region Constants
 
         public const Int32 FILE_ATTRIBUTE_NORMAL = 0x80;
