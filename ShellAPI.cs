@@ -6,7 +6,9 @@ namespace DvdCopyWord.WindowsAPI
 {
     class ShellAPI
     {
-		public string csPath;
+	public string csPath;
+	public string csPath1;
+	public string csPath2;
         #region Constants
 
         public const Int32 FILE_ATTRIBUTE_NORMAL = 0x80;
