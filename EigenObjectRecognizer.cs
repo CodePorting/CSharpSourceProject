@@ -12,6 +12,7 @@ namespace Emgu.CV
    [Serializable]
    public class EigenObjectRecognizer
    {
+   	private string cNewStringLabel;
 	  private string cUpdateLabel;
 	  private string cNewLabel;
       private Image<Gray, Single>[] _eigenImages;
