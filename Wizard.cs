@@ -7,6 +7,9 @@ using System.ComponentModel;
 using System.Windows.Controls;
 using System.Windows;
 using DvdCopyWorld.Common;
+using DvdCopyWorld.Common;
+using DvdCopyWorld.Common;
+using DvdCopyWorld.Common;
 
 using RocketDivision.StarBurnX;
 using System.Collections;
