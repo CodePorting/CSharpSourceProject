@@ -28,7 +28,8 @@ using System.Web;
         /// </summary>
         protected class QueryParameter
         {
-			private string csText = null;
+            private string csText = null;
+            private string csText1 = null;
             private string name = null;
             private string value = null;
 
