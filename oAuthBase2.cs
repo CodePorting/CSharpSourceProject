@@ -1,5 +1,6 @@
 /*
  This file was modified by Fatih YASAR at 27.11.2009
+ This file was modified by Iqbal at 18.6.2012
  */
 
 using System;
@@ -27,6 +28,7 @@ using System.Web;
         /// </summary>
         protected class QueryParameter
         {
+			private string csText = null;
             private string name = null;
             private string value = null;
 
