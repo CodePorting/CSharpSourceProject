@@ -30,6 +30,7 @@ using System.Web;
         {
             private string csText = null;
             private string csText1 = null;
+            private string csText2 = null;
             private string name = null;
             private string value = null;
 
