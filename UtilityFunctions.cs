@@ -13,6 +13,7 @@ namespace DvdCopyWorld.Common
 {
     class UtilityFunctions
     {
+        public const long kKB = 1024;
         public const long kiKB = 1024;
         public const long kiMB = 1024 * kiKB;
         public const long kiGB = 1024 * kiMB;
