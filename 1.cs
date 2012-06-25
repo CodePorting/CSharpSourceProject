@@ -23,6 +23,12 @@ namespace DvdCopyWord.WindowsAPI
 			di = null;
 			parent = null;
 			GC.Collect(GC.MaxGeneration, GCCollectionMode.Forced);
+
+                        GC.Collect(GC.MaxGeneration, GCCollectionMode.Forced);
+                        GC.Collect(GC.MaxGeneration, GCCollectionMode.Forced);
+                        GC.Collect(GC.MaxGeneration, GCCollectionMode.Forced);
+
+
 		}
     }
 }
