@@ -9,7 +9,7 @@ namespace DvdCopyWord.WindowsAPI
 		private string csTestStringVariable;
 		public string csPath;
 
-		publuc TestFunction()
+		public TestFunction()
 		{
 
 			DirectoryInfo di = new System.IO.DirectoryInfo("Sample path here");;
@@ -31,5 +31,19 @@ namespace DvdCopyWord.WindowsAPI
 
 
 		}
+
+		private Static Integer TestFunc2()
+		{
+			///	 test data here....
+			return new Integer();
+		}
+
+		protected String TestFunc3()
+		{
+		    return "Helo World";
+			//	Lets try this
+
+		}
+
     }
 }
