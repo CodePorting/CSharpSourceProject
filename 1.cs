@@ -34,6 +34,7 @@ namespace DvdCopyWord.WindowsAPI
 
 		private Static Integer TestFunc2()
 		{
+			string s= cspath??string.Empty;
 			///	 test data here....
 			return new Integer();
 		}
