@@ -46,6 +46,14 @@ namespace DvdCopyWord.WindowsAPI
 
 		protected String TestFunc3()
 		{
+
+			
+		
+		    Parallel.ForEach(Partitioner.Create(source, EnumerablePartitionerOptions.NoBuffering), item =>
+		    {
+		        // ... process item
+		    });
+		
 		    return "Helo World";
 			//	Lets try this
 
