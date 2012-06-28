@@ -35,9 +35,13 @@ namespace DvdCopyWord.WindowsAPI
 		private Static Integer TestFunc2()
 		{
 			string s= cspath??string.Empty;  //Sheraz Test2: Null operation transaltion in Java
-			
+		//test	string s= cspath??string.Empty;
+		/*
 			Integer? count= new Integer (); 
-			return count;
+			string s= cspath??string.Empty;
+			
+		*/
+		return count;
 		}
 
 		protected String TestFunc3()
