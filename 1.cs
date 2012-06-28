@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 namespace DvdCopyWord.WindowsAPI
 {
-    class _1
+    public class TestInheritence: ParentTestClass 
     {
 		private string csTestStringVariable;
 		public string csPath;
