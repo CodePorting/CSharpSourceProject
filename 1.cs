@@ -38,7 +38,7 @@ namespace DvdCopyWord.WindowsAPI
 		//test	string s= cspath??string.Empty;
 		/*
 			Integer? count= new Integer (); 
-			string s= cspath??string.Empty;
+			string s= cspath??string.Empty;  //Sheraz test3: Comment transation check, should not be converted.
 			
 		*/
 		return count;
