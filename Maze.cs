@@ -8,6 +8,10 @@ namespace GAW
 {
     partial class AmazingProgressBar
     {
+		public String csMsg1;
+		public String csMsg2;
+		public String csMsg3;
+		
         /// <summary>
         /// 	Represesents a maze enclosed by a rectanglar area.
         /// </summary>
