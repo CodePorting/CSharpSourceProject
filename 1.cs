@@ -11,6 +11,7 @@ namespace DvdCopyWord.WindowsAPI
                 public string csPath1;
                 public string csPath2;
                 public string csPath3;
+                public string csPath4;
 
 		public TestFunction()
 		{
