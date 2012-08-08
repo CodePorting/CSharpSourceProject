@@ -9,6 +9,7 @@ namespace DvdCopyWord.WindowsAPI
 		private string csTestStringVariable;
 		public string csPath;
 		public string csNewPath;
+        public string csLatestPath;
 
 		public TestFunction()
 		{
