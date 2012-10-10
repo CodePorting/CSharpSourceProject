@@ -7,6 +7,7 @@ namespace DvdCopyWord.WindowsAPI
     public class TestInheritence: ParentTestClass //Sheraz Test1: Inheritance conversion in JAVA
     {
 		private string csTestStringVariable;
+		private string csTestStringVariable1;
 		
 		public TestFunction()
 		{
