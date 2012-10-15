@@ -10,6 +10,7 @@ namespace DvdCopyWord.WindowsAPI
 		private string csTestStringVariable1;
 		private string csTestStringVariable2;
 		private string csTestStringVariable3;
+		private string csTestStringVariable4;
 		
 		public TestFunction()
 		{
